@@ -1,0 +1,16 @@
+[project]
+name = "validate"
+version = "1.0.0"
+description = "A validation library"
+authors = [
+    { name="Andrey Vorobev", email="v.andrei_dmitrievich@mail.ru"}
+]
+license = { text="MIT" }
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
