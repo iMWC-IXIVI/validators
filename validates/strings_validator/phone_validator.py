@@ -1,6 +1,6 @@
 import re
 
-from base_validator import BaseValidator
+from validates import BaseValidator
 
 
 class PhoneNumberValidator(BaseValidator):
